@@ -31,7 +31,7 @@ luego configurarlo
  git add index.html --> sube solo el archivo index.html
  git add . --> sube todos los archivos (NO ES UNA BUENA PRACTICA)
  git commit -m"nombre del commit" (MUY IMPORTANTE QUE EL COMMIT DIGA LO QUE HACE LO QUE SE SUBIO)
-
+ 
 
  **Github**
 
