@@ -42,3 +42,12 @@ copiamos las lineas de codigo correspondientes
 git add .
 git commit -m"nombre del commit" 
 *git push* --> de esta forma subimos todos los cambios de nuestro git a github.
+
+
+Para clonar un repositorio. hacer lo siguiente.
+
+abren la terminal Donde quieran clonarlo.
+git clone <url que les da github cuando aprietan el boton code>
+
+en el caso de este código seria git clone https://github.com/Emiliano-Rotta/Clase-8-Reciduca-Front-End.git
+
