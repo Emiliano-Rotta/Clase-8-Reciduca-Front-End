@@ -33,4 +33,12 @@ luego configurarlo
  git commit -m"nombre del commit" (MUY IMPORTANTE QUE EL COMMIT DIGA LO QUE HACE LO QUE SE SUBIO)
 
 
- 
+ **Github**
+
+Crearnos una cuenta
+creamos nuevo repositorio (ponemos nombre, visibilidad, etc)
+copiamos las lineas de codigo correspondientes
+
+git add .
+git commit -m"nombre del commit" 
+*git push* --> de esta forma subimos todos los cambios de nuestro git a github.
